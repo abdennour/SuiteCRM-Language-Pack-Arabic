@@ -1,8 +1,14 @@
-Russian RAPIRA language pack for SuiteCRM
-=========================================
+Simplified Chinese Language Pack for SuiteCRM 7.1.1 
+====================================================
 
-+ Здесь находится самая актуальная версия языковых файлов для [SuiteCRM][suitecrm], с учётом последних дополнений и исправлений
-+ Обновление языковых файлов проще всего сделать через установку [языкового пакета][langpack]
+SuiteCRM是一款很优秀的开源CRM软件，与SugarCRM是一体的。具体可以看Wiki：http://en.wikipedia.org/wiki/SuiteCRM 和http://en.wikipedia.org/wiki/SugarCRM。
+
+我本人很喜欢这款软件，但是从网上只有SugarCRM 6.5社区版的翻译，没有针对SuiteCRM的翻译。
+为此，尝试做一个针对SuiteCRM的简体中文的翻译。
+有很多不足之处，请大家指正，谢谢。
+本人联系方式：sqlserver2x@hotmail.com
+              Chris Guo
+              51387843 QQ
 
 [langpack]: https://github.com/likhobory/SuiteCRM7RU/blob/master/rapira-suite_pack_russian-7.1.1.zip?raw=true
 [suitecrm]: https://github.com/salesagility/SuiteCRM
