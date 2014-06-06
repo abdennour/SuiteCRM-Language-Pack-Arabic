@@ -171,24 +171,6 @@ $app_list_strings = array (
 	'Calendar' => '日程安排',
 	'Leads' => '潜在客户',
     'Currencies' => '货币',
-	'AOS_Quotes' => '报价1',
-	'AOS_Products' => '产品',
-    'AOS_Product_Categories' => '产品类别',
-    'AOS_Contracts' => '合同1',
-	'AOS_Invoices' => '发票1',
-	'AOR_Reports' => '报表1',
-
-
-
-
-
-
-
-
-
-
-
-
 
 	'Activities' => '活动',
 	'Bugs' => '缺陷追踪',
@@ -201,11 +183,6 @@ $app_list_strings = array (
     'CampaignLog'=>'市场活动日志',
 	'Documents' => '文档',
 	'Sync' => '同步',
-
-
-
-
-
 
 	'Users' => '用户',
 	'Releases' => '版本',
@@ -222,13 +199,6 @@ $app_list_strings = array (
     'FAQ' => '常见问题',
     'Newsletters' => '列表',
 	'SugarFeed'=>'Sugar 订阅',
-
-
-
-
-
-
-
 
     'Import'=>'导入',
     'ModuleBuilder'=>'模块生成器',
